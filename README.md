@@ -13,7 +13,7 @@ Name: Aswathy Gopan
 
 From: Kerala, India
 
-Education: B.Tech in Computer Science and Engineering
+Education: B.Tech in Computer Science and Engineering, KTU
 
 Software Engineer | Backend Developer | Full Stack Developer
 
